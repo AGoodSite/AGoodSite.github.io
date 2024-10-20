@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -16,13 +16,11 @@ I attend teaching workshops and seminars to improve my teaching, which to me is 
 <h2> As a primary instructor </h2>
 
 - Math 10b - Vector Calculus - Summer 2022 <br>
-    I utilized ed-tech to give students computational tools for visualizing mathematical objects in two and three dimensions and also to make lectures available to students remotely.
+  I utilized ed-tech to give students computational tools for visualizing mathematical objects in two and three dimensions and also to make lectures available to students remotely.
 - Math 153 - Set Theory -Summer 2024 <br>
-    This course developed students' skills in formal logic and proof-writing through iterative feedback. I implemented Universal Design for Learning guidelines by offering multiple options for the final assessment, allowing students' diverse learning styles to flourish.
-
+  This course developed students' skills in formal logic and proof-writing through iterative feedback. I implemented Universal Design for Learning guidelines by offering multiple options for the final assessment, allowing students' diverse learning styles to flourish.
 
 <h2> As a Teaching Assistant </h2>
-
 
 Lower Division Courses (20-35 students per section)
 
@@ -37,13 +35,11 @@ Lower Division Courses (20-35 students per section)
 - Vector Calculus I -- UCR Math 010a, 2 sections Fall 2023.
 - Vector Calculus II -- UCR Math 010b, 1 section Winter 2022
 - Calculus for Business -- UCR Math 022 , 2 sections Winter 2020, 4 sections Winter 2024.
-    
 
 Upper Division Courses (8-30 students per section)
 
-
- - Discrete Mathematics -- UCR Math 011/CS 011, 2 sections Fall 2020, 3 sections Spring 2022.
- - Applied Linear Algebra -- UCR Math 031, 2 sections Fall 2019.
+- Discrete Mathematics -- UCR Math 011/CS 011, 2 sections Fall 2020, 3 sections Spring 2022.
+- Applied Linear Algebra -- UCR Math 031, 2 sections Fall 2019.
 - Linear Algebra II -- UCR Math 132, 1 section Winter 2023
 - Introduction to Set Theory -- UCR Math 144, 2 Sections Fall 2022, 2 sections Fall 2023.
 - Introduction to Topology -- UCR Math 145a, 2 sections Winter 2021, 1 section Winter 2022.

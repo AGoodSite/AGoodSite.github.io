@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 Hello!
 
-I am currently a mathematics PhD student at [UC Riverside](https://www.ucr.edu/). 
+I am currently a mathematics PhD student at [UC Riverside](https://www.ucr.edu/).
 My research is in the intersection of algebraic geometry and combinatorics.
 My advisor is [Patricio Gallardo](https://sites.google.com/site/patriciogallardomath/) and my thesis is on compact moduli spaces of marked plane curves.
 
