@@ -1,4 +1,14 @@
+<<<<<<< HEAD
+---
+permalink: /robots.txt
+---
+User-agent: *
+Disallow:
+
+Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+=======
 User-agent: *
 Disallow:
 
 Sitemap: https://AGoodSite.github.io/sitemap.xml
+>>>>>>> 7cb87b4936a67a8e8488aa358b1c74043c0cc102
