@@ -5,6 +5,7 @@ GIT
     jekyll (4.3.4)
       addressable (~> 2.4)
       colorator (~> 1.0)
+      csv (~> 3.0)
       em-websocket (~> 0.5)
       i18n (~> 1.0)
       jekyll-sass-converter (>= 2.0, < 4.0)
