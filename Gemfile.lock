@@ -1,3 +1,24 @@
+GIT
+  remote: https://github.com/jekyll/jekyll.git
+  revision: 8e378c0615ce8e84948e0b8c51814fe0ba37fc24
+  specs:
+    jekyll (4.3.4)
+      addressable (~> 2.4)
+      colorator (~> 1.0)
+      em-websocket (~> 0.5)
+      i18n (~> 1.0)
+      jekyll-sass-converter (>= 2.0, < 4.0)
+      jekyll-watch (~> 2.0)
+      kramdown (~> 2.3, >= 2.3.1)
+      kramdown-parser-gfm (~> 1.0)
+      liquid (~> 4.0)
+      mercenary (>= 0.3.6, < 0.5)
+      pathutil (~> 0.9)
+      rouge (>= 3.0, < 5.0)
+      safe_yaml (~> 1.0)
+      terminal-table (>= 1.8, < 4.0)
+      webrick (~> 1.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -72,22 +93,6 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (1.14.6)
       concurrent-ruby (~> 1.0)
-    jekyll (4.3.4)
-      addressable (~> 2.4)
-      colorator (~> 1.0)
-      em-websocket (~> 0.5)
-      i18n (~> 1.0)
-      jekyll-sass-converter (>= 2.0, < 4.0)
-      jekyll-watch (~> 2.0)
-      kramdown (~> 2.3, >= 2.3.1)
-      kramdown-parser-gfm (~> 1.0)
-      liquid (~> 4.0)
-      mercenary (>= 0.3.6, < 0.5)
-      pathutil (~> 0.9)
-      rouge (>= 3.0, < 5.0)
-      safe_yaml (~> 1.0)
-      terminal-table (>= 1.8, < 4.0)
-      webrick (~> 1.7)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
     jekyll-email-protect (1.1.0)
@@ -195,7 +200,7 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
-  jekyll
+  jekyll!
   jekyll-archives
   jekyll-email-protect
   jekyll-feed
