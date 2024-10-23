@@ -21,6 +21,7 @@
   text-rendering: auto;
   line-height: 1;
 }
+<<<<<<< HEAD
 .ai-academia:before {
   content: "\e9af";
 }
@@ -557,3 +558,5 @@
 .ai-inverse {
   color: #fff;
 }
+=======
+>>>>>>> 7cb87b4936a67a8e8488aa358b1c74043c0cc102

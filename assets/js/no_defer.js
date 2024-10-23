@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // add bootstrap classes to tables
 $(document).ready(function () {
   $("table").each(function () {
@@ -22,3 +23,6 @@ $(document).ready(function () {
     }
   });
 });
+=======
+$(document).ready(function(){$("table").each(function(){"dark"==determineComputedTheme()?$(this).addClass("table-dark"):$(this).removeClass("table-dark"),0==$(this).parents('[class*="news"]').length&&0==$(this).parents('[class*="card"]').length&&0==$(this).parents('[class*="archive"]').length&&0==$(this).parents("code").length&&($(this).attr("data-toggle","table"),$(this).addClass("table-hover"))})});
+>>>>>>> 7cb87b4936a67a8e8488aa358b1c74043c0cc102
