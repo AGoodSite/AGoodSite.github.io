@@ -6,8 +6,4 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 nav_order: 7
 ---
-<<<<<<< HEAD
-To be texted
-=======
-To be texted up soon ab
->>>>>>> master
+text here
