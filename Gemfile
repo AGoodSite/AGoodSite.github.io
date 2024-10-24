@@ -20,6 +20,7 @@ group :jekyll_plugins do
     gem 'jemoji'
    # gem 'mini_racer'
     gem 'unicode_utils'
+    gem 'webrick'
     # gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 end
 group :other_plugins do
