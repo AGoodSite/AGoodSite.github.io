@@ -20,6 +20,7 @@ social: false # includes social icons at the bottom of the page
 Hello!
 
 I am currently a mathematics PhD student at [UC Riverside](https://www.ucr.edu/).
+I grew up in the San Francisco Bay Area and I did my undergraduate studies at Brandeis University, where I majored in mathematics and socio-cultural anthropology.
 My research is in the intersection of algebraic geometry and combinatorics.
 My advisor is [Patricio Gallardo](https://sites.google.com/site/patriciogallardomath/) and my thesis is on compact moduli spaces of marked plane curves.
 
