@@ -11,6 +11,52 @@ At UC Riverside I have taught approximately 50 courses as a Teaching Assistant a
 I have also mentored undergraduate students through reading groups and research projects.
 I attend teaching workshops and seminars to improve my teaching, which to me is a lifelong goal. This is just the beginning.
 
+
+<h2> Pedagogical training </h2>
+
+- Certification - Art and Science of Healthy Pedagogy XCITE, Spring 2024.
+    
+This workshop trained us in strategies for fostering caring, creative, and inclusive classroom environments, with sessions on accessible education technology, Culturally Responsive Teaching, and Trauma-Aware Teaching.
+
+- Pedagogy Workshops - 
+    
+XCITE Information Literacy Assesment, Teaching Week Fall 2024
+    
+Student Disability Resource Center, Disability Ally Workshop, Fall 2024
+    
+Academy of Distinguished Teaching Workshop: Creating Assignments and Exams that Foster Learning and Growth, Fall 2024
+
+
+- UCR Diversity Seminar - Fall 2020, Winter 2022.
+
+We discuss evidence-based strategies for developing a culture of inclusivity and equity within the mathematical community.
+
+- Education Seminar - Winter 2021, Winter 2025. 
+    
+We discuss literature and research on mathematical education and teaching practices.
+  
+
+<h2> Mentorship </h2>
+- Reading Courses - Led courses on algebraic geometry, category theory, and sheaf theory; collaborated on a senior thesis project.
+    
+We worked on reading the first two chapters of Vakil's lecture notes on algebraic geometry. Both of the undergraduate students transitioned to graduate programs in mathematics.
+
+- Research Project - Led Math 197 project on Newton Polytopes of plane curves, Spring 2024.
+    
+The students studied combinatorial aspects of algebraic geometry. They presented their work to the faculty and their peers. 
+
+<h2> Professional service </h2>
+
+
+- Summer Associate Instructor Preparation Workshop -  UCR, 2025, organizer
+- How to Choose an Advisor Workshop - UCR, 2025, organizer
+- Professional Support Committee for Teaching Assistants at UCR, 2024-2025.
+- UCR Teaching Workshop, Inclusive and Engaging Teaching, Panelist 2024.
+- UCR Teaching Workshop, Productive Teaching Teams, Panelist 2022.
+
+
+
+
 <h1> Courses Taught: </h1>
 
 <h2> As a primary instructor </h2>
