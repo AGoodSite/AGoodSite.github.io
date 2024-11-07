@@ -24,6 +24,10 @@ I grew up in the San Francisco Bay Area and I did my undergraduate studies at Br
 My research is in the intersection of algebraic geometry and combinatorics.
 My advisor is [Patricio Gallardo](https://sites.google.com/site/patriciogallardomath/) and my thesis is on compact moduli spaces of marked plane curves.
 
+Click on the teaching tab to learn about my experience as an educator!
+
+Click on research to learn about the mathematics I am working on.
+
 Click [here](https://AGoodSite.github.io\assets\pdf\cv.pdf) for my CV.
 
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

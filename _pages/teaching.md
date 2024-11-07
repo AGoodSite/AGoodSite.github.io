@@ -11,8 +11,9 @@ At UC Riverside I have taught approximately 50 courses as a Teaching Assistant a
 I have also mentored undergraduate students through reading groups and research projects.
 I attend teaching workshops and seminars to improve my teaching, which to me is a lifelong goal. This is just the beginning.
 
+{% include figure.liquid loading="eager" path="assets/img/pentagon.jpg" class="img-fluid rounded z-depth-1" width="200" align=right %}
 
-<h2> Pedagogical training </h2>
+<h2> Pedagogical training </h2> 
 
 - Certification - Art and Science of Healthy Pedagogy XCITE, Spring 2024.
     
