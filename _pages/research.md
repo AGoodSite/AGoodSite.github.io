@@ -8,6 +8,8 @@ nav_order: 7
 ---
 Since 2021 I have been conducting research in algebraic geometry. Before then I was primarily interested in category theory. 
 
+A draft of my upcoming paper can be found at the bottom of this page or by clicking on this [link](https://AGoodSite.github.io\assets\pdf\Pointed-Cubics-6.pdf).
+
 <h3> For the curious, </h3>
 
 algebraic geometers study shapes which can be defined as the set of solutions to polynomial equations. For instance, the *zero set* of a single polynomial in two variables, $$ f(x,y) $$, is the set of all points $$ (x,y) $$ such that $$ f(x,y)=0 $$. This defines a curve in the plane, such as the circle of radius $$ r $$ which is the set of solutions to $$ x^2 + y^2 - r^2 = 0 $$. When the polynomial $$ f(x,y) $$ changes, so does the curve defined by $$ f(x,y) =0 $$. By fixing a degree $$ d $$ and treating the coefficients $$ c_{i,j} $$ of 
@@ -23,10 +25,13 @@ $$
  in my thesis I construct GIT compactifications of the moduli space of smooth, projective, plane curves of degree $$ d $$ with $$ n $$ distinct marked points. These spaces are obtained as geometric quotients of a parameter space of marked plane curves $$ \mathcal{C}_{n,d} \subset \mathbb{P}(\Gamma (\mathcal{O}(d), \mathbb{P}^2 )) \times (\mathbb{P}^2)^n $$ by the group $$ SL(3) $$ acting as linear automorphisms of the plane. To obtain a geometric quotient $$ \overline{M}_{g(d),\vec{w}}^{git} := \mathcal{C}_{n,d}^{ss} //_{\vec{w}} SL(3) $$ one must first remove from $$ \mathcal{C}_{n,d} $$ a closed locus of *unstable* marked curves. It is of interest that there are several choices of stability conditions one can make to determine which locus to remove from $$ \mathcal{C}_{n,d} $$, corresponding to a choice of an $$ SL(3)- $$ linearized line bundle on $$ \mathcal{C}_{n,d} $$. The foundational research of [Thaddeus](https://arxiv.org/abs/alg-geom/9405004) and [Dolgachev and Hu](https://arxiv.org/abs/alg-geom/9402008) on Variations of Geometric Invariant Theory quotients (VGIT) describes how such a choice of line bundle corresponds to the choice of a vector $$ \vec{w} $$ in a finite-dimensional, rational, polyhedral cone. This cone is divided by hyperplanes into a finite set of convex, polyhedral *chambers* such that $$ \vec{w_1} $$ and $$ \vec{w_2} $$ lie in the same chamber if and only if $$ \overline{M}_{g(d), \vec{w_1}}^{git} \cong \overline{M}_{g(d),\vec{w_2}}^{git} $$ . Furthermore, if $$ \vec{w_2} $$ and $$ \vec{w_3} $$ lie in adjacent chambers then there are explicit birational morphisms 
 $$ \overline{M}_{g(d),\vec{w_2}}^{git} \dashleftarrow \dashrightarrow \overline{M}_{g(d),\vec{w_3}}^{git}  $$ closely related to the birational morphisms which appear in the Minimal Model Program of algebraic geometry. I give explicit description of the cone of line bundles $$ \vec{w} $$ that give rise to a suitable moduli space $$ \overline{M}_{g(d), \vec{w}}^{git} $$. Special attention is paid to the case $$ d=3 $$ of marked elliptic curves. In this case I give a complete description of the wall and chamber decomposition and the wall-crossing behavior. I also discuss how this space is related to other moduli spaces such as $$ \overline{M}_{1,n} $$ and the moduli space of cubic surfaces with a marked Eckhardt point.
 
-See below for further details. If nothing appears, click [here](https://AGoodSite.github.io\assets\pdf\markedcubicintro.pdf).
-
-<embed src="https://AGoodSite.github.io\assets\pdf\markedcubicintro.pdf" width="1000" height="750" 
+<embed src="https://AGoodSite.github.io\assets\pdf\Pointed_Cubics-6.pdf" width="1000" height="750" 
  type="application/pdf">
+
+<!-- See below for further details. If nothing appears, click [here](https://AGoodSite.github.io\assets\pdf\markedcubicintro.pdf). -->
+
+<!-- <embed src="https://AGoodSite.github.io\assets\pdf\markedcubicintro.pdf" width="1000" height="750" 
+ type="application/pdf"> -->
 
 <!-- <object data="AGoodSite.github.io\assets\pdf\markedcubicintro.pdf" type="application/pdf" width="8000px" height="8000px">
     <embed src="https://AGoodSite.github.io\assets\pdf\markedcubicintro.pdf" type="application/pdf">
