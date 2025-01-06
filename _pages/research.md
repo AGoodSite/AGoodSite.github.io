@@ -10,7 +10,7 @@ Since 2021 I have been conducting research in algebraic geometry. Before then I 
 
 <h2> Publications </h2>
 
-A draft of my upcoming paper, *Compact Moduli Spaces of Marked Cubic Curves*, can be found at the bottom of this page or by clicking on this [link](https://AGoodSite.github.io\assets\pdf\Pointed_Cubics-8.pdf).
+A preprint of my upcoming paper, *Compact Moduli Spaces of Marked Cubic Curves*, can be found at the bottom of this page or by clicking on this [link](https://AGoodSite.github.io\assets\pdf\Pointed_Cubics-8.pdf).
 
 <h3> For the curious, </h3>
 
